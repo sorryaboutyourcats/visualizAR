@@ -1,3 +1,5 @@
+// below is the original readme.. disregard for meow
+
 # sorryaboutyourOPZ
 
 sorryaboutyourOPZ is a ghetto visualizer for the OP-Z.
