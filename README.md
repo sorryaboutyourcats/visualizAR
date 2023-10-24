@@ -1,3 +1,15 @@
+Quest AR visualizer for OP-Z test
+
+Looks like:
+https://twitter.com/SryAbtYourCats/status/1714389247635988584
+
+Currently you'll need Virtual Desktop to enable passthrough [Streaming tab].
+From Virtual Desktop, open SteamVR, then click play on Unity.
+
+The sprites are probably not in a good spot. What I did was move them in play mode, then copy the settings, then stop and paste them. There might be a better way, but for now that is the ghetto magic I casted upon it.
+
+I'd love for the ability for this to handle the passthrough on its own, as well as the ability to move and save the sprite locations with your hand. We'll see what happens!
+
 // below is the original readme.. disregard for meow
 
 # sorryaboutyourOPZ
