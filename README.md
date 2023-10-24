@@ -1,16 +1,16 @@
-Quest AR visualizer for OP-Z test
+# Quest AR visualizer for OP-Z test
 
-Looks like:
-https://twitter.com/SryAbtYourCats/status/1714389247635988584
+[Looks like this](https://twitter.com/SryAbtYourCats/status/1714389247635988584)
 
-Currently you'll need Virtual Desktop to enable passthrough [Streaming tab].
-From Virtual Desktop, open SteamVR, then click play on Unity.
+Currently you'll need [Virtual Desktop](https://www.oculus.com/deeplink/?action=view&path=app/2017050365004772&ref=oculus_desktop) to enable passthrough (Streaming tab).
+From Virtual Desktop, open SteamVR. On your PC open the project in Unity, then click play on Unity.
 
-The sprites are probably not in a good spot. What I did was move them in play mode, then copy the settings, then stop and paste them. There might be a better way, but for now that is the ghetto magic I casted upon it.
+I got the sprites in a better spot by moving them during play mode, copying the settings, stopping, then pasting them.
+There might be a better way, but for meow that is the ghetto magic I casted upon it.
 
-I'd love for the ability for this to handle the passthrough on its own, as well as the ability to move and save the sprite locations with your hand. We'll see what happens!
+I'd love for this to handle the passthrough on its own, as well as the ability to move and save the sprite locations with your hand, AND the ability to work with any MIDI device, AND AND work with OSC... AND ANDDDDDDDDD... we'll see what happens! 😹
 
-// below is the original readme.. disregard for meow
+///// below is the original readme.. disregard for meow
 
 # sorryaboutyourOPZ
 
