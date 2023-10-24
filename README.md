@@ -8,8 +8,7 @@ From Virtual Desktop, open SteamVR. On your PC open the project in Unity, then c
 I got the sprites in a better spot by moving them during play mode, copying the settings, stopping, then pasting them.
 There might be a better way, but for meow that is the ghetto magic I casted upon it.
 
-I'd love for this to handle the passthrough on its own, as well as the ability to move and save the sprite locations with your hand. 
-We'll see what happens! 😹
+I'd love for this to handle the passthrough on its own, as well as the ability to move and save the sprite locations with your hand, AND the ability to work with any MIDI device, AND AND work with OSC... AND ANDDDDDDDDD... we'll see what happens! 😹
 
 ///// below is the original readme.. disregard for meow
 
